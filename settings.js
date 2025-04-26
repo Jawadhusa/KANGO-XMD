@@ -16,7 +16,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //--------------------[ SESSION ID ]----------------------//
 
-global.SESSION_ID = process.env.SESSION_ID || '' 
+global.SESSION_ID = process.env.SESSION_ID || 'KANGO~9hBngJRD#wB4zuuae1x9hLxmigh-_vR4MgZVkww-2bdjnxMk1wZM' 
 //Enter your 𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿 session id here; must start with KANGO~
 
 //--------------------[ BOT NAME ]----------------------//
@@ -25,7 +25,7 @@ global.botname = process.env.BOT_NAME || '𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿'
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '233509977126' 
+global.ownernumber = process.env.OWNER_NUMBER || '212637915359' 
 
 //-----------------[ OWNER NAME ]------------------//
 
@@ -33,11 +33,11 @@ global.ownername = process.env.OWNER_NAME || 'Hector Manuel'
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿" 
+global.packname = process.env.STICKER_PACK_NAME || "𝐹𝒶𝓃𝑔𝟩𝓍  ✨" 
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "Hector" 
+global.author = process.env.STICKER_AUTHOR_NAME || "𝐹𝒶𝓃𝑔𝟩𝓍  ✨" 
 
 //----------------------[ TIMEZONE ]--------------------//
 
@@ -46,7 +46,7 @@ global.timezones = process.env.TIMEZONE || "Africa/Accra"
 
 //----------------[ GITHUB DATABASE ]-----------------//
 
-global.dbToken = process.env.GITHUB_TOKEN || "";
+global.dbToken = process.env.GITHUB_TOKEN || "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";
 // Not really necessary on panels/vps/termux, just put it when bot settings reset when bot restarts.
 
 //Go to https://github.com/settings/tokens, select 'Tokens (classic)', then tap 'Generate new token' and select 'Generate new token (classic)'. Enter any note, choose 'No expiration', and under 'Select scopes', tick 'repo'. Scroll down, generate the token, and copy it. Paste it here. If using a single token for multiple bots, change the owner number to avoid settings mixups.
@@ -58,7 +58,7 @@ global.plink = process.env.PLINK || "https://youtube.com/@official_manuel"
 
 //------------------[ WATERMARK ]--------------------//
 
-global.wm = process.env.GL_WM || "> ©𝙆𝘼𝙉𝙂𝙊-𝙓𝙈𝘿"
+global.wm = process.env.GL_WM || "> ©𝐹𝒶𝓃𝑔𝟩𝓍"
 
 //---------------------[ REPLIES ]-----------------------//
 
