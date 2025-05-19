@@ -1,8 +1,8 @@
 {
-  "name": "Queen Adiza",
+  "name": "IsHaQ-MD",
   "version": "2.4.2",
-  "description": "Adiza, the best WhatsApp Bot",
-  "logo": "https://files.catbox.moe/rhjkfl.jpg",
+  "description": "IsHaQ-MD, the best WhatsApp Bot",
+  "logo": "https://i.ibb.co/5xsLHYTH/15a5aef74a52c5f3a39e4af19900d188.gif",
   "keywords": ["whatsapp", "bot", "md"],
   "repository": "https://github.com/Matri199/Queen-Adiza",
   "stack": "container",
@@ -17,27 +17,27 @@
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
-      "value": "Adiza-Bot",
+      "value": "IsHaQ-MD",
       "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
-      "value": "",
+      "value": "212637915359",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "Jawad",
       "required": true
     },
     "STICKER_PACK_NAME": {
       "description": "Sticker pack name",
-      "value": "Adiza",
+      "value": "الستيكر ذا بتاع جواد اللي يسرقو gay",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Sticker author name",
-      "value": "Adiza",
+      "value": "Jawad",
       "required": false
     },
     "HEROKU_API_KEY": {
